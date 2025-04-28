@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/igorgardzielewski/Downloads/zadanie2/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-g++-14  -I/opt/homebrew/Cellar/ice/3.7.10/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/zadanie2.dir/system/src/system.cpp.o -c /Users/igorgardzielewski/Downloads/zadanie2/system/src/system.cpp",
+  "file": "/Users/igorgardzielewski/Downloads/zadanie2/system/src/system.cpp",
+  "output": "CMakeFiles/zadanie2.dir/system/src/system.cpp.o"
+}
+]

@@ -1,0 +1,3 @@
+/Users/igorgardzielewski/Downloads/zadanie2/cmake-build-debug/CMakeFiles/zadanie2.dir
+/Users/igorgardzielewski/Downloads/zadanie2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/igorgardzielewski/Downloads/zadanie2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

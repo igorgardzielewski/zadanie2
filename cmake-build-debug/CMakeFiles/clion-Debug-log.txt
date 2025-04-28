@@ -1,0 +1,16 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/igorgardzielewski/Downloads/zadanie2 -B /Users/igorgardzielewski/Downloads/zadanie2/cmake-build-debug
+-- Ice version: 3.7.10
+-- Found the following Ice libraries:
+--   Ice++11 (required)
+-- The following Ice libraries were not found:
+--   IceUtil (required)
+CMake Error at /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake:233 (message):
+  Failed to find all Ice components (missing: Ice_SLICE_DIR
+  _Ice_REQUIRED_LIBS_FOUND) (found version "3.7.10")
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake:603 (_FPHSA_FAILURE_MESSAGE)
+  /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.31/Modules/FindIce.cmake:544 (FIND_PACKAGE_HANDLE_STANDARD_ARGS)
+  CMakeLists.txt:8 (find_package)
+
+
+-- Configuring incomplete, errors occurred!

@@ -1,0 +1,11 @@
+# ninja log v6
+9	1441	1745850139232260305	CMakeFiles/zadanie2.dir/system/src/MPKimpl.cpp.o	d5918d1b414f3d47
+10	1343	1745850139232908191	CMakeFiles/zadanie2.dir/system/src/StopImpl.cpp.o	84730935f93361b8
+0	916	1745868169883524995	CMakeFiles/zadanie2.dir/system/src/system.cpp.o	695de7a6fe7b976e
+10	1300	1745850139232471017	CMakeFiles/zadanie2.dir/system/src/DepoImpl.cpp.o	5895007b3b75090d
+9	640	1745783226735292025	CMakeFiles/zadanie2.dir/main.cpp.o	ce8e8cf5169c2187
+0	10	1745864265502875101	clean	ad90e366ad70d77b
+204	1155	1745850139426564429	CMakeFiles/zadanie2.dir/client/src/PassengerImpl.cpp.o	fa454b866d3a70b9
+10	1244	1745850139233065193	CMakeFiles/zadanie2.dir/system/src/LineImpl.cpp.o	79968854d8830fc3
+10	1315	1745850139233192570	CMakeFiles/zadanie2.dir/tram/src/TramImpl.cpp.o	213a3b73c53d4529
+2	55	1745869341057410404	build.ninja	2dea195426fae634
